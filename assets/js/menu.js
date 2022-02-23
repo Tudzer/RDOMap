@@ -50,6 +50,9 @@ class Menu {
       Legendary.animals.forEach(animal => {
         if (animal.onMap) animal.onMap = !animal.onMap;
       });
+      LegendaryMission.missions.forEach(mission => {
+        if (mission.onMap) mission.onMap = !mission.onMap;
+      });
       AnimalCollection.collection.forEach(collection => {
         collection.animals.forEach(animal => animal.isEnabled = false);
       });
@@ -83,6 +86,9 @@ class Menu {
       });
       Legendary.animals.forEach(animal => {
         if (!animal.onMap) animal.onMap = !animal.onMap;
+      });
+      LegendaryMission.mission.forEach(mission => {
+        if (!mission.onMap) mission.onMap = !mission.onMap;
       });
       MadamNazar.onMap = true;
       Pins.onMap = true;

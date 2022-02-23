@@ -93,10 +93,11 @@ function init() {
   const shops = Shop.init();
   const gfh = GunForHire.init();
   const legendary = Legendary.init();
+  const legendaryMissions = LegendaryMission.init();
   const discoverables = Discoverable.init();
   const overlays = Overlay.init();
 
-  Promise.all([animals, locations, encounters, treasures, bounties, fmeCondorEgg, fmeSalvage, plants, camps, shops, gfh, legendary, discoverables, overlays])
+  Promise.all([animals, locations, encounters, treasures, bounties, fmeCondorEgg, fmeSalvage, plants, camps, shops, gfh, legendary, legendaryMissions, discoverables, overlays])
     .then(() => {
       Loader.resolveMapModelLoaded();
       MapBase.afterLoad();
@@ -257,6 +258,7 @@ $('#language').on('change', function () {
   Encounter.onLanguageChanged();
   GunForHire.onLanguageChanged();
   Legendary.onLanguageChanged();
+  LegendaryMission.onLanguageChanged();
   Location.onLanguageChanged();
   PlantsCollection.onLanguageChanged();
   Shop.onLanguageChanged();
@@ -302,6 +304,7 @@ $('#marker-opacity').on('change', function () {
 $('#overlay-opacity').on('change', function () {
   Settings.overlayOpacity = Number($('#overlay-opacity').val());
   Legendary.onSettingsChanged();
+  LegendaryMission.onSettingsChanged();
   Overlay.onSettingsChanged();
   CondorEgg.onSettingsChanged();
   Salvage.onSettingsChanged();
@@ -482,6 +485,16 @@ L.DivIcon.DataMarkup = L.DivIcon.extend({
 
       img.dataset.time = timeRange(from, to);
     }
+  },
+});
+
+// Legendary amimal mission location icon (clue/animal)
+L.Icon.DataMarkup = L.Icon.extend({
+  _setIconStyles: function (img, name) {
+    L.Icon.prototype._setIconStyles.call(this, img, name);
+
+    if (this.options.tippy)
+      img.dataset.tippy = this.options.tippy;
   },
 });
 

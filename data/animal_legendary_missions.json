@@ -1,0 +1,1161 @@
+[
+
+{
+  "title": "mp_animal_alligator_legendary_mission_01",
+  "zones": [
+    {
+      "type": "area",
+      "x": -80.3984,
+      "y": 144.9453,
+      "radius": 0.8,
+      "location": {
+        "x": -79.9531,
+        "y": 144.6797,
+        "description": "Running out of the water"
+      }
+    }
+  ]
+},
+  {
+    "title": "mp_animal_bear_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -68.2813,
+        "y": 88.6953,
+        "radius": 1.7,
+        "location": {
+          "x": -68.4219,
+          "y": 87.4922
+        }
+      },
+      {
+        "type": "area",
+        "x": -60.875,
+        "y": 85.7031,
+        "radius": 1.8,
+        "location": {
+          "x": -59.3984,
+          "y": 85.5391
+        }
+      },
+      {
+        "type": "area",
+        "x": -56.2422,
+        "y": 82.5078,
+        "radius": 1.5,
+        "location": {
+          "x": -55.6719,
+          "y": 82.3828,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_bear_legendary_mission_02",
+    "zones": [
+      {
+        "type": "area",
+        "x": -67.8828,
+        "y": 79.4531,
+        "radius": 1.8,
+        "location": {
+          "x": -67.5,
+          "y": 79.7344,
+          "description": "Dying poacher"
+        }
+      },
+      {
+        "type": "area",
+        "x": -67.0938,
+        "y": 72.7344,
+        "radius": 1.8,
+        "location": {
+          "x": -67.4531,
+          "y": 72.1406,
+          "description": "Animal remains"
+        }
+      },
+      {
+        "type": "area",
+        "x": -60.7188,
+        "y": 71.6016,
+        "radius": 1.8,
+        "location": {
+          "x": -59.9453,
+          "y": 71.0703,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_bear_legendary_mission_03",
+    "zones": [
+      {
+        "type": "area",
+        "x": -67.8828,
+        "y": 79.4531,
+        "radius": 1.8,
+        "location": {
+          "x": -68.7109,
+          "y": 78.5547,
+          "description": "Dead horse"
+        }
+      },
+      {
+        "type": "area",
+        "x": -67.0938,
+        "y": 72.7344,
+        "radius": 1.8,
+        "location": {
+          "x": -66.0313,
+          "y": 72.5703,
+          "description": "Dying poacher"
+        }
+      },
+      {
+        "type": "area",
+        "x": -62.6641,
+        "y": 74.5156,
+        "radius": 1.8,
+        "location": {
+          "x": -62.0703,
+          "y": 75.2109,
+          "description": "Comes out of cave"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_bear_legendary_mission_04",
+    "zones": [
+      {
+        "type": "area",
+        "x": -69.1875,
+        "y": 76.3594,
+        "radius": 1.8,
+        "location": {
+          "x": -69.9844,
+          "y": 77.5,
+          "description": "Dead horse"
+        }
+      },
+      {
+        "type": "area",
+        "x": -67.0781,
+        "y": 82.375,
+        "radius": 1.8,
+        "location": {
+          "x": -66.1875,
+          "y": 82.7344,
+          "description": "Dead poacher"
+        }
+      },
+      {
+        "type": "area",
+        "x": -66.7344,
+        "y": 88.5078,
+        "radius": 1.4,
+        "location": {
+          "x": -66.5156,
+          "y": 89.3281,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_beaver_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -36.1094,
+        "y": 158.2734,
+        "radius": 0.35,
+        "location": {
+          "x": -36.0313,
+          "y": 158.4141
+        }
+      },
+      {
+        "type": "area",
+        "x": -35.9922,
+        "y": 150.1953,
+        "radius": 0.35,
+        "location": {
+          "x": -36.1797,
+          "y": 150.1875
+        }
+      },
+      {
+        "type": "area",
+        "x": -29.3906,
+        "y": 154.9609,
+        "radius": 2.6,
+        "location": {
+          "x": -28.9141,
+          "y": 155.7188
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -28.6328,
+          "y": 155
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_beaver_legendary_mission_02",
+    "zones": [
+      {
+        "type": "area",
+        "x": -38.6563,
+        "y": 146.9844,
+        "radius": 2.3,
+        "location": {
+          "x": -38.625,
+          "y": 145.9844,
+          "description": "Pile of sticks"
+        }
+      },
+      {
+        "type": "area",
+        "x": -36.0078,
+        "y": 150.1953,
+        "radius": 0.1,
+        "location": {
+          "x": -35.9766,
+          "y": 150.2578,
+          "description": "Closed tent"
+        }
+      },
+      {
+        "type": "area",
+        "x": -29.1641,
+        "y": 154.5781,
+        "radius": 3,
+        "location": {
+          "x": -27.7891,
+          "y": 155.3984,
+          "description": "Swimming in the river"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_beaver_legendary_mission_03",
+    "zones": [
+      {
+        "type": "area",
+        "x": -38.6563,
+        "y": 146.9844,
+        "radius": 2.3,
+        "location": {
+          "x": -38.625,
+          "y": 145.9844,
+          "description": "Pile of sticks"
+        }
+      },
+      {
+        "type": "area",
+        "x": -36.0078,
+        "y": 150.1953,
+        "radius": 0.1,
+        "location": {
+          "x": -35.9766,
+          "y": 150.2578,
+          "description": "Closed tent"
+        }
+      },
+      {
+        "type": "area",
+        "x": -29.1641,
+        "y": 154.5781,
+        "radius": 3,
+        "location": {
+          "x": -30.9844,
+          "y": 153.6094,
+          "description": "Swimming in the river"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_beaver_legendary_mission_04",
+    "zones": [
+      {
+        "type": "area",
+        "x": -38.6563,
+        "y": 146.9844,
+        "radius": 2.3,
+        "location": {
+          "x": -38.7969,
+          "y": 147.75,
+          "description": "Pile of sticks"
+        }
+      },
+      {
+        "type": "area",
+        "x": -36.0078,
+        "y": 150.1953,
+        "radius": 0.1,
+        "location": {
+          "x": -35.9766,
+          "y": 150.2578,
+          "description": "Closed tent"
+        }
+      },
+      {
+        "type": "area",
+        "x": -29.0859,
+        "y": 154.7578,
+        "radius": 3.4,
+        "location": {
+          "x": -29.8828,
+          "y": 153.9141,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_beaver_legendary_mission_05",
+    "zones": [
+      {
+        "type": "area",
+        "x": -38.6563,
+        "y": 146.9844,
+        "radius": 2.3,
+        "location": {
+          "x": -38.7969,
+          "y": 147.75,
+          "description": "Pile of sticks"
+        }
+      },
+      {
+        "type": "area",
+        "x": -36.0078,
+        "y": 150.1953,
+        "radius": 0.1,
+        "location": {
+          "x": -35.9766,
+          "y": 150.2578,
+          "description": "Closed tent"
+        }
+      },
+      {
+        "type": "area",
+        "x": -29.0859,
+        "y": 154.7578,
+        "radius": 3.4,
+        "location": {
+          "x": -28.25,
+          "y": 156.3906,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_bison_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -49.2266,
+        "y": 76.2266,
+        "radius": 1.25,
+        "location": {
+          "x": -48.9531,
+          "y": 75.4766,
+          "description": "Bison poop"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -51.2188,
+          "y": 77.25,
+          "description": "Wolf fur"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -50.4766,
+          "y": 74.5938,
+          "description": "Broken sticks"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -51.7109,
+          "y": 73.1328,
+          "description": "Dead wolf"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -53.1797,
+          "y": 74.2891,
+          "description": "Dead wolf"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -54.9453,
+          "y": 75.5547,
+          "description": "Within the herd of bisons"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_bison_legendary_mission_02",
+    "zones": [
+      {
+        "type": "area",
+        "x": -54.1797,
+        "y": 84.7656,
+        "radius": 1.25,
+        "location": {
+          "x": -53.4609,
+          "y": 84.1875,
+          "description": "Bison poop"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -55.5625,
+          "y": 84.0859,
+          "description": "Bison's horn"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -57.7109,
+          "y": 82.3594,
+          "description": "Broken sticks"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -57.7813,
+          "y": 79.9922,
+          "description": "Dead bison"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -56.6094,
+          "y": 79.1641,
+          "description": "Dead bear"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -54.7031,
+          "y": 77.7969,
+          "description": "Within the herd of bisons"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_bison_legendary_mission_03",
+    "zones": [
+      {
+        "type": "area",
+        "x": -52.5703,
+        "y": 77.4375,
+        "radius": 0.7,
+        "location": {
+          "x": -52.3984,
+          "y": 77.4531,
+          "description": "Map on the table"
+        }
+      },
+      {
+        "type": "area",
+        "x": -57.4531,
+        "y": 85.1094,
+        "radius": 1.8,
+        "location": {
+          "x": -57.4531,
+          "y": 85.1094,
+          "description": "Running away from the poachers"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_boar_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -100.7891,
+        "y": 84.0938,
+        "radius": 2,
+        "location": {
+          "x": -101.5,
+          "y": 84.9844,
+          "description": "Horse poop"
+        }
+      },
+      {
+        "type": "area",
+        "x": -99.5234,
+        "y": 89.4453,
+        "radius": 1.2,
+        "location": {
+          "x": -99.0391,
+          "y": 89.0703,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_buck_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -32.1641,
+        "y": 148.3359,
+        "radius": 1.8,
+        "location": {
+          "x": -32.0078,
+          "y": 148.0469,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_buck_legendary_mission_02",
+    "zones": [
+      {
+        "type": "area",
+        "x": -32.4297,
+        "y": 154.8984,
+        "radius": 1.6,
+        "location": {
+          "x": -32.2344,
+          "y": 153.9844,
+          "description": "Buck poop"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -28.4922,
+          "y": 151.5781,
+          "description": "Running away"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_cougar_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -110.5547,
+        "y": 25.5234,
+        "radius": 0.35,
+        "location": {
+          "x": -110.5156,
+          "y": 25.4063,
+          "description": "Dead horse"
+        }
+      },
+      {
+        "type": "area",
+        "x": -110.8438,
+        "y": 33.0781,
+        "radius": 4,
+        "location": {
+          "x": -112.8594,
+          "y": 30.75,
+          "description": "Dying poacher"
+        }
+      },
+      {
+        "type": "area",
+        "x": -116.8359,
+        "y": 26.3047,
+        "radius": 3.5,
+        "location": {
+          "x": -114.9688,
+          "y": 24.3984,
+          "description": "Trap"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -113.5547,
+          "y": 18.5625,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_cougar_legendary_mission_02",
+    "zones": [
+      {
+        "type": "area",
+        "x": -110.5547,
+        "y": 25.5234,
+        "radius": 0.35,
+        "location": {
+          "x": -110.5156,
+          "y": 25.4063,
+          "description": "Dead horse"
+        }
+      },
+      {
+        "type": "area",
+        "x": -110.8438,
+        "y": 33.0781,
+        "radius": 4,
+        "location": {
+          "x": -112.8594,
+          "y": 30.75,
+          "description": "Dying poacher"
+        }
+      },
+      {
+        "type": "area",
+        "x": -116.8359,
+        "y": 26.3047,
+        "radius": 3.5,
+        "location": {
+          "x": -114.9688,
+          "y": 24.3984,
+          "description": "Trap"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -106.4531,
+          "y": 19.9844,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_cougar_legendary_mission_03",
+    "zones": [
+      {
+        "type": "area",
+        "x": -96.8984,
+        "y": 30.6484,
+        "radius": 0.45,
+        "location": {
+          "x": -96.9219,
+          "y": 30.7734,
+          "description": "Dead horse"
+        }
+      },
+      {
+        "type": "area",
+        "x": -102.8594,
+        "y": 27.8203,
+        "radius": 4.2,
+        "location": {
+          "x": -105.0859,
+          "y": 26.8984,
+          "description": "Dying stranger"
+        }
+      },
+      {
+        "type": "area",
+        "x": -109.1797,
+        "y": 37.5625,
+        "radius": 3.5,
+        "location": {
+          "x": -110.6563,
+          "y": 38.1563,
+          "description": "Animal remains"
+        }
+      },
+      {
+        "type": "area",
+        "x": -114.6172,
+        "y":  40.6094,
+        "radius": 0.45,
+        "location": {
+          "x": -114.6172,
+          "y":  40.6094,
+          "description": "Use poacher as a lure"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_cougar_legendary_mission_04",
+    "zones": [
+      {
+        "type": "area",
+        "x": -96.8984,
+        "y": 30.6484,
+        "radius": 0.45,
+        "location": {
+          "x": -96.9219,
+          "y": 30.7734,
+          "description": "Dead horse"
+        }
+      },
+      {
+        "type": "area",
+        "x": -102.8594,
+        "y": 27.8203,
+        "radius": 4.2,
+        "location": {
+          "x": -105.0859,
+          "y": 26.8984,
+          "description": "Dying stranger"
+        }
+      },
+      {
+        "type": "area",
+        "x": -109.1797,
+        "y": 37.5625,
+        "radius": 3.5,
+        "location": {
+          "x": -110.6563,
+          "y": 38.1563,
+          "description": "Animal remains"
+        }
+      },
+      {
+        "type": "area",
+        "x": -116.8516,
+        "y": 34.1641,
+        "radius": 0.45,
+        "location": {
+          "x": -116.8516,
+          "y": 34.1641,
+          "description": "Use poacher as a lure"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_coyote_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -87.6797,
+        "y": 95.0547,
+        "radius": 6.5,
+        "location": {
+          "x": -87.1016,
+          "y": 90.8906,
+          "description": "Poachers camp"
+        }
+      },
+      {
+        "type": "area",
+        "x": -87.0703,
+        "y": 90.8672,
+        "radius": 0.9,
+        "location": {
+          "x": -86.7109,
+          "y": 90.8516,
+          "description": "Coyote poop"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -84.7422,
+          "y": 89.8594,
+          "description": "Running away"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_elk_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -25.3594,
+        "y": 91.2188,
+        "radius": 0.55,
+        "location": {
+          "x": -25.3594,
+          "y": 91.2188,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_fox_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -76.4688,
+        "y": 142.4688,
+        "radius": 1.5,
+        "location": {
+          "x": -76.5625,
+          "y": 143.4609,
+          "description": "Chicken coop"
+        }
+      },
+      {
+        "type": "area",
+        "x": -79.2578,
+        "y": 142.6641,
+        "radius": 1.6,
+        "location": {
+          "x": -79.7109,
+          "y": 141.5469
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -78.625,
+          "y": 141.3125
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_fox_legendary_mission_02",
+    "zones": [
+      {
+        "type": "area",
+        "x": -76.4688,
+        "y": 142.4688,
+        "radius": 1.5,
+        "location": {
+          "x": -76.25,
+          "y": 143.0313,
+          "description": "Footprints"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -77.9688,
+          "y": 143.6016,
+          "description": "Dead owl"
+        }
+      },
+      {
+        "type": "area",
+        "x": -79.2656,
+        "y": 142.9766,
+        "radius": 1.8,
+        "location": {
+          "x": -79.7344,
+          "y": 141.5078,
+          "description": "Trap"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -79.3047,
+          "y": 138.8906,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_fox_legendary_mission_03",
+    "zones": [
+      {
+        "type": "area",
+        "x": -81.3281,
+        "y": 131.5703,
+        "radius": 0.6,
+        "location": {
+          "x": -81.0781,
+          "y": 131.3125,
+          "description": "Chicken coop"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -79.0625,
+          "y": 132.2422,
+          "description": "Dead chicken?"
+        }
+      },
+      {
+        "type": "area",
+        "x": -75.5313,
+        "y": 131.3281,
+        "radius": 4.5,
+        "location": {
+          "x": -76.8047,
+          "y": 130.7031,
+          "description": "Dead rat"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -78.7109,
+          "y": 135.0938,
+          "description": "Broken sticks"
+        }
+      },
+      {
+        "type": "area",
+        "x": -78.7969,
+        "y": 136.5156,
+        "radius": 1.8,
+        "location": {
+          "x": -77.9219,
+          "y": 136.0313,
+          "description": "Broken sticks"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -80.3672,
+          "y": 137.2344,
+          "description": "Dead dog"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -80.0625,
+          "y": 140.2578,
+          "description": "Dying poacher"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -79.8203,
+          "y": 147.4453,
+          "description": "Running away from the poachers"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_moose_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -83,
+        "y": 78.0313,
+        "radius": 1,
+        "location": {
+          "x": -82.8359,
+          "y": 77.8594,
+          "description": "Bedroll"
+        }
+      },
+      {
+        "type": "area",
+        "x": -85.2422,
+        "y": 71.8906,
+        "radius": 1.4,
+        "location": {
+          "x": -85.2422,
+          "y": 71.8906,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_panther_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -97.2344,
+        "y": 132.9297,
+        "radius": 1,
+        "location": {
+          "x": -98.0625,
+          "y": 132.7578,
+          "description": "Trap"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -96.9063,
+          "y": 130.8594,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_panther_legendary_mission_02",
+    "zones": [
+      {
+        "type": "area",
+        "x": -89.8516,
+        "y": 131.0938,
+        "radius": 1.5,
+        "location": {
+          "x": -89.0469,
+          "y": 131.125,
+          "description": "Dead horse"
+        }
+      },
+      {
+        "type": "area",
+        "x": -94.6797,
+        "y": 129.6094,
+        "radius": 1.2,
+        "location": {
+          "x": -94.8125,
+          "y": 126.6953,
+          "description": "Attacking poachers"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_ram_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -111.7109,
+        "y": 59.3828,
+        "radius": 1.2,
+        "location": {
+          "x": -112.5078,
+          "y": 59.8125,
+          "description": "Dead coyote"
+        }
+      },
+      {
+        "type": "area",
+        "x": -114.8281,
+        "y": 57.1797,
+        "radius": 1.1,
+        "location": {
+          "x": -115.7188,
+          "y": 57.2813,
+          "description": "Trap"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -119.0625,
+          "y": 57.4922,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_ram_legendary_mission_02",
+    "zones": [
+      {
+        "type": "area",
+        "x": -111.5469,
+        "y": 57.5,
+        "radius": 0.7,
+        "location": {
+          "x": -111.4922,
+          "y": 57.8203,
+          "description": "Stranger"
+        }
+      },
+      {
+        "type": "area",
+        "x": -115.6641,
+        "y": 56.6875,
+        "radius": 1,
+        "location": {
+          "x": -115.8828,
+          "y": 57.2734,
+          "description": "Dead ram"
+        }
+      },
+      {
+        "type": "area",
+        "x": -116.8828,
+        "y": 59.1016,
+        "radius": 0.7,
+        "location": {
+          "x": -116.9609,
+          "y": 59.2969,
+          "description": "Caged"
+        }
+      }
+    ]
+  },
+  {
+    "title": "mp_animal_wolf_legendary_mission_01",
+    "zones": [
+      {
+        "type": "area",
+        "x": -44.6328,
+        "y": 113.8359,
+        "radius": 0.85,
+        "location": {
+          "x": -44.0625,
+          "y": 114.0859,
+          "description": "Dead deer"
+        }
+      },
+      {
+        "type": "area",
+        "x": -42.5469,
+        "y": 110.8047,
+        "radius": 1.1,
+        "location": {
+          "x": -43.1016,
+          "y": 110.25,
+          "description": "Wolf poop"
+        }
+      },
+      {
+        "type": "area",
+        "x": -40.5313,
+        "y": 111.2344,
+        "radius": 0.7,
+        "location": {
+          "x": -40.0703,
+          "y": 111.4922,
+          "description": "Dead horse"
+        }
+      },
+      {
+        "type": "spot",
+        "location": {
+          "x": -38.0625,
+          "y": 110.3672,
+          "description": "On a cliff reachable down from the river"
+        }
+      }
+    ]
+  }
+]

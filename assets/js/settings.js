@@ -176,6 +176,8 @@ Object.entries({
   showDebugSettings: { default: false },
   legendarySpawnIconType: { default: 'head' },
   legendarySpawnIconSize: { default: 1 },
+  legendaryMissionAnimalIconSize: { default: 2 },
+  legendaryMissionClueIconSize: { default: 1 },
 }).forEach(([name, config]) => SettingProxy.addSetting(Settings, name, config));
 
 // Completed daily challenges settings (file dailies.js)
